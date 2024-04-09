@@ -7,16 +7,14 @@ Pogrubienie słów na kartce zwiększa szansę na ich zapamiętanie.
 ## Uczestnicy badania
 Zbadano 54 ochotników, wśród nich: 26 kobiet i 28 mężczyzn. 41 osób między 18. a 22. rokiem życia (włącznie), 4 osoby między 23. a 27. rokiem życia (włącznie), 2 osoby między 28. a 32. rokiem życia (włącznie) oraz 7 osób w wieku 43 lat lub starszych. 14 osób tylko pracujących, 28 osób tylko studiujących, 12 osób studiujących i pracujących.
 
-## Podział grup
-### Grupa kontrolna
-Przedstawiany uczestnikom arkusz bez pogrubionych słów.
-[Przykładowy arkusz - grupa kontrolna](png/grupa-kontrolna.png)
-### Grupa eksperymentalna
-Przedstawiany uczestnikom arkusz z losowo wybranymi pogrubionymi słowami.
-[Przykładowy arkusz - grupa eksperymentalna](png/grupa-eksperymentalna.png)
-
 ## Proceedura badawcza
 Słowa zostały wybrane spośród 1000 najpopularniejszych słów Jerzego Kazojcia. Wybrano 50 słów, wyłącznie rzeczowników w liczbie pojedynczej. Wybrano słowa, które nie powinny budzić skrajnych emocji wśród osób badanych. Arkusze zawierały 50 słów, układ będzie widoczny na załączonych arkuszach. Ułożonych zostało 6 wersji arkusza, odpowiednio po 3 na grupę eksperymentalną i kontrolną. Arkusze różniły się ułożeniem słów - pogrubione wyrazy zawsze były takie same (słowa "wyróżnione"). Zmieniało się jedynie ich położenie na kartce. Badanie było przeprowadzane w różnym miejscu i różnym czasie, spotykając się indywidualnie z osobami badanymi w czasie dla nich dogodnym. Dobór grupy eksperymentalnej i kontrolnej był losowy.
+
+## Podział grup
+### Grupa kontrolna - arkusz bez pogrubionych słów
+![Przykładowy arkusz - grupa kontrolna](PNG/grupa-kontrolna.png)
+### Grupa eksperymentalna - arkusz z pogrubionymi słowami
+![Przykładowy arkusz - grupa eksperymentalna](PNG/grupa-eksperymentalna.png)
 
 ## Wyniki
 ### Analiza opisowa
